@@ -5,8 +5,7 @@
 //   scanf("%d",&i);
 
 //   j=1;
-//   while(j<20){
+//   for(j=1; j<20; j++){
 //     printf("%d * %d = %d\n",i,j,i*j);
-//     j++;
 //   }
 // }
